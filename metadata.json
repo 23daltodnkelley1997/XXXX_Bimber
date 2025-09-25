@@ -1,0 +1,5 @@
+{
+  "name": "Quick Business Card Generator",
+  "description": "A web service for quickly creating and editing business cards with an intuitive drag-and-drop interface, intended for individual users and small businesses.",
+  "requestFramePermissions": []
+}
